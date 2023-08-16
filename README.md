@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [mhtong.tech](https://mhtong.tech/)
 
